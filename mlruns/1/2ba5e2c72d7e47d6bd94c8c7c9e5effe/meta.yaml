@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lewagon/code/thomaslacour/TaxiFareModel/mlruns/1/2ba5e2c72d7e47d6bd94c8c7c9e5effe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 2ba5e2c72d7e47d6bd94c8c7c9e5effe
+run_uuid: 2ba5e2c72d7e47d6bd94c8c7c9e5effe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637678224931
+status: 1
+tags: []
+user_id: unknown
